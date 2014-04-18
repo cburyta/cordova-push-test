@@ -33,5 +33,6 @@
     <gap:plugin name="com.phonegap.plugins.pushplugin" version="2.1.1" />
 
     <!-- Core plugins -->
-    <gap:plugin name="org.apache.cordova.battery-status" />
+    <gap:plugin name="org.apache.cordova.device" />
+    <!-- <gap:plugin name="org.apache.cordova.battery-status" /> -->
 </widget>
